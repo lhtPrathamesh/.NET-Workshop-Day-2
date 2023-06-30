@@ -1,0 +1,15 @@
+D:\.NET Workshop\Exception-handling\Exception-handling\bin\Debug\net6.0\Exception-handling.exe
+D:\.NET Workshop\Exception-handling\Exception-handling\bin\Debug\net6.0\Exception-handling.deps.json
+D:\.NET Workshop\Exception-handling\Exception-handling\bin\Debug\net6.0\Exception-handling.runtimeconfig.json
+D:\.NET Workshop\Exception-handling\Exception-handling\bin\Debug\net6.0\Exception-handling.dll
+D:\.NET Workshop\Exception-handling\Exception-handling\bin\Debug\net6.0\Exception-handling.pdb
+D:\.NET Workshop\Exception-handling\Exception-handling\obj\Debug\net6.0\Exception-handling.csproj.AssemblyReference.cache
+D:\.NET Workshop\Exception-handling\Exception-handling\obj\Debug\net6.0\Exception-handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Workshop\Exception-handling\Exception-handling\obj\Debug\net6.0\Exception-handling.AssemblyInfoInputs.cache
+D:\.NET Workshop\Exception-handling\Exception-handling\obj\Debug\net6.0\Exception-handling.AssemblyInfo.cs
+D:\.NET Workshop\Exception-handling\Exception-handling\obj\Debug\net6.0\Exception-handling.csproj.CoreCompileInputs.cache
+D:\.NET Workshop\Exception-handling\Exception-handling\obj\Debug\net6.0\Exception-handling.dll
+D:\.NET Workshop\Exception-handling\Exception-handling\obj\Debug\net6.0\refint\Exception-handling.dll
+D:\.NET Workshop\Exception-handling\Exception-handling\obj\Debug\net6.0\Exception-handling.pdb
+D:\.NET Workshop\Exception-handling\Exception-handling\obj\Debug\net6.0\Exception-handling.genruntimeconfig.cache
+D:\.NET Workshop\Exception-handling\Exception-handling\obj\Debug\net6.0\ref\Exception-handling.dll
